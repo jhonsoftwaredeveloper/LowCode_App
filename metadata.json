@@ -1,0 +1,35 @@
+{
+  "fileFormatVersion": 1,
+  "clientSchemaVersion": 1,
+  "serverSchemaVersion": 3,
+  "publishedDefaultPageName": "View_Login",
+  "unpublishedDefaultPageName": "View_Login",
+  "invisibleActionFields": {
+    "View_Documents_Api_Credentials": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "View_Login_Api1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "View_Users_Api1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    }
+  },
+  "editModeTheme": {
+    "name": "Classic",
+    "displayName": "Classic",
+    "isSystemTheme": true,
+    "deleted": false
+  },
+  "publishedTheme": {
+    "name": "Classic",
+    "displayName": "Classic",
+    "isSystemTheme": true,
+    "deleted": false
+  },
+  "publishedLayoutmongoEscapedWidgets": {},
+  "unpublishedLayoutmongoEscapedWidgets": {}
+}

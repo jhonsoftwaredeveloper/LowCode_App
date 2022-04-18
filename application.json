@@ -1,0 +1,20 @@
+{
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F3F1C7",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "createdAt": {
+    "seconds": 1650273320,
+    "nanos": 777000000
+  },
+  "deleted": false
+}
