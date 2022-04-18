@@ -5,6 +5,10 @@
   "publishedDefaultPageName": "View_Login",
   "unpublishedDefaultPageName": "View_Login",
   "invisibleActionFields": {
+    "Home_Page_Api_SecretKey": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "View_Documents_Api_Credentials": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
