@@ -16,6 +16,10 @@
     "View_Users_Api1": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
+    },
+    "View_Users_Views": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
     }
   },
   "editModeTheme": {

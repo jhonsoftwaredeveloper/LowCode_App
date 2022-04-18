@@ -719,7 +719,7 @@
                     {
                       "boxShadow": "VARIANT1",
                       "widgetName": "IconButton2",
-                      "onClick": "",
+                      "onClick": "{{navigateTo('https://app.appsmith.com/app/systemadsoftic/home-page',,'SAME_WINDOW', \"\"], ],)}}",
                       "buttonColor": "#F6F7F8",
                       "displayName": "Icon Button",
                       "iconSVG": "/static/media/icon.1a0c634a.svg",
